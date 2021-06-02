@@ -41,4 +41,4 @@ def api_id():
 
     return data
 
-app.run()
+#app.run()
